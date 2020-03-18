@@ -31,7 +31,7 @@
   width: calc(100% / 3);
   flex-wrap: nowrap;
   text-align: left;
-  padding-right: 10vh;
+  /* padding-right: 10vh; */
 }
 
 .dates {
