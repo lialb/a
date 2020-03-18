@@ -12,7 +12,7 @@ class Icon extends React.Component {
 	render() {
     return(
       <div className="icon-main">
-        <img src={require(`../../Assets/tech_icons/${this.props.image}`)} width="70px" className="icon-logo"/>
+        <img src={require(`../../Assets/tech_icons/${this.props.image}`)} width="70vh" className="icon-logo" alt="icon"/>
         <p>{this.props.name}</p>
       </div>
     );

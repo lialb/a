@@ -10,7 +10,7 @@ export default class About extends Component {
           <h1 className="display-3">
             About
           </h1>
-          <img src={Portrait} width="30%"></img>
+          <img src={Portrait} width="30%" alt="Albert Li"></img>
           <h3>
             I am: 
           </h3>

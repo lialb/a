@@ -4,18 +4,19 @@
 }
 .tech {
   display: flex;
-  justify-content: flex-start, space-around;
+  justify-content: center;
   padding-top: 5%;
+  width: 100%;
 }
 
 .icon-main {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 2%;
+  padding-right: 2%;
   text-align: center;
 }
 
 .tech-label {
-  padding-left: 27%;
+  /* padding-left: 27%; */
   padding-right: 2%;
 }
 .skills-main {
