@@ -9,7 +9,7 @@ function Skills() {
         Stuff I've worked with:
       </h1>
       <div className="tech">
-        <h1 className="tech-label">
+        <h1 className="tech-label hidden-xs">
           Languages: 
         </h1>
         <Icon image="python.png" name="Python"/>
@@ -20,7 +20,7 @@ function Skills() {
         <Icon image="r.png" name="R"/>
       </div>
       <div className="tech">
-        <h1 className="tech-label">
+        <h1 className="tech-label hidden-xs">
           Frameworks: 
         </h1>
         <Icon image="angular.png" name="Angular"/>

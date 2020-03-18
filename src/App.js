@@ -12,7 +12,7 @@ import { Element } from 'react-scroll';
 function App() {
   return (
     <div>
-      <TopNavbar className="navbar hidden-phone"/>
+      <TopNavbar className="navbar hidden-xs"/>
       <Element name="home">
         <Home className="App" title="home"/>
       </Element>
