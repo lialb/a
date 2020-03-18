@@ -1,0 +1,33 @@
+.exp-flex-container {
+  display: flex;
+}
+
+.exp-title {
+  text-align: center;
+}
+
+.exp-main {
+  background-color: #f2f2f2;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.job-flex {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.jobs {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.flex-row {
+  width: calc(100% / 3);
+  text-align: left;
+  padding: 0.5em 0.5em;
+}
+
+.text {
+  /* width: @text-width; */
+}

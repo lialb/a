@@ -1,0 +1,23 @@
+.skills-title {
+  text-align: center;
+  padding-top: 5%;
+}
+.tech {
+  display: flex;
+  justify-content: flex-start, space-around;
+  padding-top: 5%;
+}
+
+.icon-main {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.tech-label {
+  padding-left: 27%;
+  padding-right: 2%;
+}
+.skills-main {
+  padding-bottom: 3%;
+}
