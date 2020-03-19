@@ -12,7 +12,7 @@ function Misc() {
             This page has been viewed at least &nbsp;<img src="http://stuff.mit.edu/cgi/counter/albearli" alt="several" className="counter"></img> &nbsp; times
           </p>
           <p>
-            I am avid <a href='https://lichess.org/@/Albear' rel="noopener noreferrer" target='_blank'>chess player</a>
+            I am an avid <a href='https://lichess.org/@/Albear' rel="noopener noreferrer" target='_blank'>chess player</a>
           </p>
           <p>
             I enjoy playing soccer and basketball
