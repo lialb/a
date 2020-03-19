@@ -7,6 +7,7 @@ import About from './components/about/about';
 import Skills from './components/skills/skills';
 import Experience from './components/experience/exp';
 import Misc from './components/misc/misc';
+import Footer from './components/footer/footer';
 import { Element } from 'react-scroll';
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
       <Element name="misc">
         <Misc title="misc"/>
       </Element>
+      <Footer/>
     </div>
   );
 }

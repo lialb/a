@@ -46,7 +46,7 @@ export default class TopNavBar extends Component {
            duration={500}>Miscellaneous</Link></Nav.Link>
         </Nav>
         <Nav className="ml-auto">
-          <Navbar.Brand href="https://github.com/albearli" target="_blank">
+          <Navbar.Brand href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
             <img
               src={ GithubLogo }
               width="30"
@@ -55,7 +55,7 @@ export default class TopNavBar extends Component {
               alt="github-logo"
             />
           </Navbar.Brand>
-          <Navbar.Brand href="https://www.linkedin.com/in/albearli/" target="_blank">
+          <Navbar.Brand href="https://www.linkedin.com/in/albearli/" target="_blank" rel="noopener noreferrer">
             <img
               src={ LinkedInLogo }
               width="30"
