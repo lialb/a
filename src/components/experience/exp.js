@@ -1,14 +1,17 @@
 import React from 'react';
 import './exp.css';
 import Job from './job';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 function Experience() {
+  AOS.init();
   return(
     <div className="exp-main">
-      <h1 className="display-3 exp-title">
+      <h1 data-aos="fade-up" className="display-3 exp-title">
         Experience
       </h1>
-      <div className="jobs">
+      <div data-aos="fade-up" className="jobs">
         <Job title="Software Engineering Intern" company="Motorola Solutions Inc." start="May 2020" end="TBD" url="https://www.motorolasolutions.com/en_us.html"/>
         <hr/>
         <Job title="Project Manager & Course Staff" company="CS 196: Freshman Honors" start="Jan. 2020" end="Present" url="http://cs196.cs.illinois.edu/"/>

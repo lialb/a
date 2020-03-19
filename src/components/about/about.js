@@ -14,21 +14,21 @@ export default class About extends Component {
             About
           </h1>
           <img data-aos="fade-up" data-aos-delay="100" src={Portrait} width="30%" alt="Albert Li"></img>
-          <h3 data-aos="fade-left" data-aos-anchor-placement="center-center">
+          <h3 data-aos="fade-left">
             I am: 
           </h3>
-          <p data-aos="fade-left" data-aos-anchor-placement="bottom-center" data-aos-delay="300">
+          <p data-aos="fade-left" data-aos-delay="300">
             Studying Computer Science at The University of Illinois at Urbana-Champaign
           </p>
-          <p data-aos="fade-left" data-aos-anchor-placement="bottom-center" data-aos-delay="300" >
+          <p data-aos="fade-left" data-aos-delay="300" >
             Pursuing two minors in Statistics and Mathematics
           </p>
-          <p data-aos="fade-left" data-aos-anchor-placement="bottom-center" data-aos-delay="300">
+          <p data-aos="fade-left" data-aos-delay="300">
             Trying my best
           </p>
         </div>
         <hr/>
-        <div data-aos="fade-left" data-aos-anchor-placement="bottom-center" data-aos-delay="200">
+        <div data-aos="fade-left" data-aos-delay="200">
           <p>
             As of 03/17/2020, I am a Software Engineering Intern at Caterpillar, part of the Advanced Analytics Division.
             I help out Engineers by creating software solutions, apps, and websites.
