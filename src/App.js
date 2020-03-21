@@ -8,12 +8,14 @@ import Skills from './components/skills/skills';
 import Experience from './components/experience/exp';
 import Misc from './components/misc/misc';
 import Footer from './components/footer/footer';
+import Particles from './components/particles/particles';
 import { Element } from 'react-scroll';
 
 function App() {
   return (
     <div>
       <TopNavbar className="navbar d-none d-sm-block"/>
+      <Particles/>
       <Element name="home">
         <Home className="App" title="home"/>
       </Element>
