@@ -18,7 +18,7 @@ function Experience() {
         <hr/>
         <Job title="Software Engineering Co-op" company="Caterpillar Inc." start="Aug. 2019" end="May 2020" url="https://www.caterpillar.com/en.html"/>
         <hr/>
-        <Job title="Software Engineering Intern" company="Ameren Corporation" start="May 2019" end="Aug. 2019" url="https://www.ameren.com/"/>
+        <Job title="Software Engineering Intern" company="Ameren" start="May 2019" end="Aug. 2019" url="https://www.ameren.com/"/>
         <hr/>
         <Job title="Course Assistant" company="CS 125: Introduction to Computer Science" start="Jan. 2019" end="May 2019" url="https://cs125.cs.illinois.edu/"/>
       </div>
