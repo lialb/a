@@ -8,7 +8,7 @@ function Misc() {
   AOS.init();
   return(
     <div className="misc-main">
-      <h1 className="display-3 misc-title">Miscellaneous</h1>
+      <h1 className="display-5 misc-title">Miscellaneous</h1>
       {/* <h1 className="facts-title">Facts:</h1> */}
       <div className="facts">
           <p data-aos="fade-up">

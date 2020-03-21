@@ -10,7 +10,7 @@ export default class About extends Component {
     return(
       <div className="about-main">
         <div className="about-text">
-          <h1 data-aos="fade-up" className="display-3">
+          <h1 data-aos="fade-up" className="display-5">
             About
           </h1>
           <img data-aos="fade-up" data-aos-delay="100" src={Portrait} width="30%" alt="Albert Li"></img>

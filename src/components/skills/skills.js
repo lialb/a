@@ -9,7 +9,7 @@ export default class Skills extends React.Component {
     AOS.init();
     return(
       <div className="skills-main">
-        <h1 data-aos="fade-up" className="display-3 skills-title">
+        <h1 data-aos="fade-up" className="display-5 skills-title">
           Stuff I've worked with:
         </h1>
         <div data-aos="fade-up" className="tech">
