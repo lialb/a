@@ -14,9 +14,12 @@ export default class About extends Component {
             About
           </h1>
           <img data-aos="fade-up" data-aos-delay="100" src={Portrait} width="30%" alt="Albert Li"></img>
-          <h3 data-aos="fade-left">
+          <h2 data-aos="fade-left">
             I am: 
-          </h3>
+          </h2>
+          <p data-aos="fade-left" data-aos-delay="300">
+            Albert Yiliang Li
+          </p>
           <p data-aos="fade-left" data-aos-delay="300">
             Studying Computer Science at The University of Illinois at Urbana-Champaign
           </p>
@@ -28,13 +31,15 @@ export default class About extends Component {
           </p>
         </div>
         <hr/>
-        <div data-aos="fade-left" data-aos-delay="300">
+        <div data-aos="fade-right" data-aos-delay="300">
           <p>
-            As of 03/17/2020, I am a Software Engineering Intern at Caterpillar, part of the Advanced Analytics Division.
-            I help out Engineers by creating software solutions, apps, and websites.
+            As of 03/17/2020, I am a Software Engineering Intern at Caterpillar, part of the Product Visual Analytics group in the Advanced Analytics Division.
           </p>
           <p>
-            In Summer 2020, I will be interning at Motorola Solutions, hopefully changing the world in some way.
+            I help out Engineers by creating visualization and analytics software, improving speed and efficiency of data analysis and extraction.
+          </p>
+          <p>
+            In Summer 2020, I will be interning at Motorola Solutions, hopefully changing the world in some way :)
           </p>
         </div>
         <hr/>

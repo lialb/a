@@ -12,9 +12,6 @@ function Misc() {
       {/* <h1 className="facts-title">Facts:</h1> */}
       <div className="facts">
           <p data-aos="fade-up">
-            This page has been viewed at least &nbsp;<img src="http://stuff.mit.edu/cgi/counter/albearli" alt="several" className="counter"></img> &nbsp; times
-          </p>
-          <p data-aos="fade-up">
             I am an avid <a href='https://lichess.org/@/Albear' rel="noopener noreferrer" target='_blank'>chess player</a>
           </p>
           <p data-aos="fade-up">
@@ -27,6 +24,9 @@ function Misc() {
             I have a fat cat named Samwise
           </p >
           <img src={Cat} width="30%" alt="Samwise Cat" data-aos="fade-up"/>
+          <p data-aos="fade-up">
+            This page has been viewed at least &nbsp;<img src="http://stuff.mit.edu/cgi/counter/albearli" alt="counter" className="counter"></img> &nbsp; times
+          </p>
       </div>
     </div>
   );
