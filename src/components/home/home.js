@@ -8,8 +8,8 @@ function Home() {
   return (
     <div className="home-main">
       <div className="home-text">
-        <h1 data-aos="fade-left" className="display-3 ">hello, world</h1>
-        <h1 data-aos="fade-right" className="display-3">I'm Albert Li</h1>
+        <h1 data-aos="fade-left" data-aos-delay="300" className="display-3 ">hello, world</h1>
+        <h1 data-aos="fade-right" data-aos-delay="300" className="display-3">I'm Albert Li</h1>
       </div>
     </div>
   );
