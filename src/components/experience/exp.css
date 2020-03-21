@@ -4,6 +4,7 @@
 
 .exp-title {
   text-align: center;
+  padding-bottom: 2%;
 }
 
 .exp-main {
@@ -18,14 +19,9 @@
 }
 
 .jobs {
-  width: 50%;
+  width: 75%;
   margin: 0 auto;
 }
-
-/* .job-title {
-  padding-left: 1%;
-  padding-right: 1%;
-} */
 
 .flex-row {
   width: calc(100% / 3);
@@ -34,6 +30,9 @@
   /* padding-right: 10vh; */
 }
 
+.job-title {
+  text-align: center;
+}
 .dates {
   text-align: right;
 }

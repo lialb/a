@@ -18,7 +18,7 @@ class Job extends React.Component {
         <div className="job-flex">
           <p className="flex-row" role="cell"><a href={this.props.url} rel="noopener noreferrer" target="_blank">{this.props.company}</a></p>
           <p className="flex-row job-title" role="cell">{this.props.title}</p>
-          <p className="flex-row dates" role="cell">{this.props.start} - {this.props.end}</p>
+          <p className="flex-row dates" role="cell">{this.props.start} — {this.props.end}</p>
         </div>
       </div>
     );
