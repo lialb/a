@@ -33,7 +33,7 @@ export default class About extends Component {
         <hr/>
         <div data-aos="fade-right" data-aos-delay="300">
           <p>
-            As of 03/17/2020, I am a Software Engineering Intern at Caterpillar, part of the Product Visual Analytics group in the Advanced Analytics Division.
+            As of 03/17/2020, I am a Software Engineering Co-op at Caterpillar, part of the Product Visual Analytics group in the Advanced Analytics Division.
           </p>
           <p>
             I help out Engineers by creating visualization and analytics software, improving speed and efficiency of data analysis and extraction.
@@ -45,10 +45,10 @@ export default class About extends Component {
         <hr/>
         <div data-aos="fade-left" data-aos-delay="300">
           <p>
-            As a student at UIUC, I enjoy all things math, statistics, and data science (hence the double minor). When I'm not working or doing homework,
+            As a student at UIUC, I enjoy all things tech, data science, and ML.
           </p>
           <p>
-            I enjoy learning something new, working out, and cats.
+            When I'm not working or doing homework, I enjoy learning something new, working out, and cats.
           </p>
         </div>
       </div>

@@ -11,20 +11,20 @@ function Misc() {
       <h1 className="display-5 misc-title">Miscellaneous</h1>
       {/* <h1 className="facts-title">Facts:</h1> */}
       <div className="facts">
-          <p data-aos="fade-up">
-            I am an avid <a href='https://lichess.org/@/Albear' rel="noopener noreferrer" target='_blank'>chess player</a>
+          <p data-aos="fade-up" data-aos-delay="300">
+            I like<a href='https://lichess.org/@/Albear' rel="noopener noreferrer" target='_blank'> chess</a>
           </p>
-          <p data-aos="fade-up">
+          <p data-aos="fade-up" data-aos-delay="300">
             I enjoy playing soccer and basketball
           </p>
-          <p data-aos="fade-up">
+          <p data-aos="fade-up" data-aos-delay="300">
             I actually use Vim and Arch (btw)
           </p>
-          <p data-aos="fade-up">
+          <p data-aos="fade-up" data-aos-delay="300">
             I have a fat cat named Samwise
           </p >
-          <img src={Cat} width="30%" alt="Samwise Cat" data-aos="fade-up"/>
-          <p data-aos="fade-up">
+          <img src={Cat} width="30%" alt="Samwise Cat" data-aos="fade-up" data-aos-delay="300"/>
+          <p data-aos="fade-up" data-aos-delay="300">
             This page has been viewed at least &nbsp;<img src="http://stuff.mit.edu/cgi/counter/albearli" alt="counter" className="counter"></img> &nbsp; times
           </p>
       </div>

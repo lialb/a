@@ -9,10 +9,10 @@ export default class Skills extends React.Component {
     AOS.init();
     return(
       <div className="skills-main">
-        <h1 data-aos="fade-up" className="display-5 skills-title">
+        <h1 data-aos="fade-up" data-aos-delay="300" className="display-5 skills-title">
           Stuff I've worked with:
         </h1>
-        <div data-aos="fade-up" className="tech">
+        <div data-aos="fade-up" data-aos-delay="300" className="tech">
           <h1 className="tech-label d-none d-sm-block">
             Languages: 
           </h1>
@@ -23,7 +23,7 @@ export default class Skills extends React.Component {
           <Icon image="cpp.png" name="C++"/>
           <Icon image="r.png" name="R"/>
         </div>
-        <div data-aos="fade-up" className="tech">
+        <div data-aos="fade-up" data-aos-delay="300" className="tech">
           <h1 data-aos-delay="50" className="tech-label d-none d-sm-block">
             Frameworks: 
           </h1>
