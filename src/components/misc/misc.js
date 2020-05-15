@@ -1,6 +1,7 @@
 import React from 'react';
 import './misc.css';
 import Cat from '../../Assets/cat.jpg';
+import GroupPhoto from '../../Assets/group.jpg';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -24,6 +25,8 @@ function Misc() {
             I have a fat cat named Samwise
           </p >
           <img src={Cat} width="30%" alt="Samwise Cat" data-aos="fade-up" data-aos-delay="300"/>
+          <br></br>
+          <img src={GroupPhoto} width="30%" alt="Group Photo" data-aos="fade-up" data-aos-delay="300"/>
           <p data-aos="fade-up" data-aos-delay="300">
             This page has been viewed at least &nbsp;<img src="http://stuff.mit.edu/cgi/counter/albearli" alt="counter" className="counter"></img> &nbsp; times
           </p>
