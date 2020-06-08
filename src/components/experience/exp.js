@@ -8,10 +8,10 @@ function Experience() {
   AOS.init();
   return(
     <div className="exp-main">
-      <h1 data-aos="fade-up" data-aos-delay="300" className="display-5 exp-title">
+      <h1 data-aos="fade-up" data-aos-delay="200" className="display-5 exp-title">
         Experience
       </h1>
-      <div data-aos="fade-up" data-aos-delay="300" className="jobs">
+      <div data-aos="fade-up" data-aos-delay="200" className="jobs">
         <Job title="Software Engineer Intern" company="Motorola Solutions Inc." start="June 2020" end="TBD" url="https://www.motorolasolutions.com/en_us.html"/>
         <hr/>
         <Job title="Project Manager & Course Staff" company="CS 196: Freshman Honors" start="Jan. 2020" end="Present" url="http://cs196.cs.illinois.edu/"/>
