@@ -25,7 +25,7 @@ export default class Courses extends React.Component {
           <h3>In Progress</h3>
           <br/>
           <p>
-            System Programming (241), Database Systems (411), Programming Languages & Compilers (421), Numerical Analysis (450), Statistical Learning (432)
+            System Programming (241), Database Systems (411), Programming Languages & Compilers (421), Numerical Analysis (450), Applied Machine Learning (498 AML)
           </p>
         </div>
       </div>

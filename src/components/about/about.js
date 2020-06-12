@@ -36,7 +36,7 @@ export default class About extends Component {
             As of 06/06/2020, I am a Software Engineer Intern at Motorola Solutions, part of the Cirrus Mobile team.
           </p>
           <p>
-            I am creating the backend for a mobile applications monitoring radio systems data
+            I am creating microservices for a mobile application monitoring radio systems data
           </p>
           <p>
             My previous position was a Software Engineering Co-Op at Caterpillar, part of the Product Visual Analytics team (PVA)
