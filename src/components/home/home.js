@@ -5,6 +5,7 @@ import 'aos/dist/aos.css';
 
 function Home() {
   AOS.init();
+  /**
   var TxtRotate = function(el, toRotate, period) {
     this.toRotate = toRotate;
     this.el = el;
@@ -63,19 +64,19 @@ function Home() {
     css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
     document.body.appendChild(css);
   };
-
+  */
   return (
     <div className="home-main">
       <div className="home-text">
         <h1 data-aos="fade-left" data-aos-delay="600" className="display-3">hello, world</h1>
-        {/* <h1 data-aos="fade-right" data-aos-delay="600" className="display-3">I'm Albert Li</h1> */}
-        <h1 className="display-3">I'm
+        <h1 data-aos="fade-right" data-aos-delay="600" className="display-3">I'm Albert Li</h1>
+        {/* <h1 className="display-3">I'm
           <span
             className="txt-rotate"
             data-period="2000"
             data-rotate='[ " Albert Li", " a developer", " an adventurer", " trying my best" ]'>
           </span>
-        </h1>
+        </h1> */}
       </div>
     </div>
   );
