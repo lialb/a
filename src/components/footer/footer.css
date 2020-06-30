@@ -7,12 +7,14 @@
 
 .github-logo {
   width: 2%;
+  min-width: 35px;
   padding-top: .5%;  
   padding-bottom: .5%;
   padding-right: .25%;
 }
 
 .linkedin-logo {
+  min-width: 35px;
   width: 2%;
   padding-top: .5%;  
   padding-bottom: .5%;
