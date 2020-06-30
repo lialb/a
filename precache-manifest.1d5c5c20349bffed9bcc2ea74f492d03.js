@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fde9b35cceafe6809589110d5f0dd3d2",
+    "revision": "4c355a5ce6473c537bf0043a0954e652",
     "url": "/a/index.html"
   },
   {
-    "revision": "a7862ac3bd847c2805c6",
+    "revision": "55152a694a04c0b18e5f",
     "url": "/a/static/css/2.83767612.chunk.css"
   },
   {
-    "revision": "8d220150d67265b77970",
-    "url": "/a/static/css/main.c1de72db.chunk.css"
+    "revision": "44ca8daf3239b8371d02",
+    "url": "/a/static/css/main.6bc0a8e0.chunk.css"
   },
   {
-    "revision": "a7862ac3bd847c2805c6",
-    "url": "/a/static/js/2.5161a226.chunk.js"
+    "revision": "55152a694a04c0b18e5f",
+    "url": "/a/static/js/2.d84e2021.chunk.js"
   },
   {
     "revision": "11a928b57aca5049fe950bf8bcde77c5",
-    "url": "/a/static/js/2.5161a226.chunk.js.LICENSE.txt"
+    "url": "/a/static/js/2.d84e2021.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d220150d67265b77970",
-    "url": "/a/static/js/main.383368a8.chunk.js"
+    "revision": "44ca8daf3239b8371d02",
+    "url": "/a/static/js/main.d35a3bd8.chunk.js"
   },
   {
     "revision": "f79f8eeeb3e944352a4c",
@@ -40,12 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/a/static/media/aws.90bc46c1.png"
   },
   {
+    "revision": "0a04b735077dce587e3bf7fdbcdee31e",
+    "url": "/a/static/media/c.0a04b735.webp"
+  },
+  {
     "revision": "3e649658922a3b581dcf54cebb3acf30",
     "url": "/a/static/media/cat.3e649658.jpg"
   },
   {
     "revision": "74932018f26093826488dfb377fccec7",
     "url": "/a/static/media/cpp.74932018.png"
+  },
+  {
+    "revision": "67642a0b80f3d50277c44cde8f450e50",
+    "url": "/a/static/media/flutter.67642a0b.png"
   },
   {
     "revision": "89c2c0674bdba3d61daf6b1b1e5e82b5",
@@ -64,12 +72,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/a/static/media/javascript.79046a55.png"
   },
   {
+    "revision": "4655ae6f8193d16e391f8971119decee",
+    "url": "/a/static/media/kubernetes.4655ae6f.png"
+  },
+  {
     "revision": "82bf1657565079450683cd7fb952cb28",
     "url": "/a/static/media/linkedin_white.82bf1657.png"
   },
   {
     "revision": "35781b9b9a781ed84efb32bde9f437ce",
     "url": "/a/static/media/linux.35781b9b.png"
+  },
+  {
+    "revision": "b337a2fb0b1289e6757e632dc766ff6b",
+    "url": "/a/static/media/nodejs.b337a2fb.svg"
   },
   {
     "revision": "7e6fd771d469f5e3b6cfab160a65914d",
