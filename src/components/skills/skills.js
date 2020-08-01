@@ -22,7 +22,6 @@ export default class Skills extends React.Component {
           <Icon image="typescript.png" name="TypeScript"/>
           <Icon image="java.png" name="Java"/>
           <Icon image="cpp.png" name="C++"/>
-          <Icon image="c.webp" name="C"/>
           <Icon image="r.png" name="R"/>
         </div>
         <div data-aos="fade-up" data-aos-delay="200" className="tech">
