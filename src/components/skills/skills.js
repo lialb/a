@@ -29,11 +29,11 @@ export default class Skills extends React.Component {
             Frameworks: 
           </h1>
           <Icon image="angular.png" name="Angular"/>
-          <Icon image="react.svg" name="React"/>
+          <Icon image="react.webp" name="React"/>
           <Icon image="android.png" name="Android"/>
           <Icon image="flutter.png" name="Flutter"/>
           <Icon image="flask.png" name="Flask"/>
-          <Icon image="nodejs.svg" name="Node.js"/>
+          <Icon image="nodejs.webp" name="Node.js"/>
           <Icon image="kubernetes.png" name="Kubernetes"/>
           {/* <Icon image="aws.png" name="AWS"/> */}
         </div>

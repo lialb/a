@@ -14,7 +14,7 @@ function Experience() {
       <div data-aos="fade-up" data-aos-delay="200" className="jobs">
         <Job title="Software Engineer Intern" company="Motorola Solutions Inc." start="June 2020" end="TBD" url="https://www.motorolasolutions.com/en_us.html"/>
         <hr/>
-        <Job title="Project Manager & Course Staff" company="CS 196: Freshman Honors" start="Jan. 2020" end="Present" url="http://cs196.cs.illinois.edu/"/>
+        <Job title="Project Manager & Course Staff" company="CS 196: Freshman Honors" start="Jan. 2020" end="Present" url="https://cs196.cs.illinois.edu/"/>
         <hr/>
         <Job title="Software Engineering Co-op" company="Caterpillar Inc." start="Aug. 2019" end="May 2020" url="https://www.caterpillar.com/en.html"/>
         <hr/>
