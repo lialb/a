@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/a/static/css/main.6bc0a8e0.chunk.css",
-    "main.js": "/a/static/js/main.fc408da5.chunk.js",
-    "main.js.map": "/a/static/js/main.fc408da5.chunk.js.map",
+    "main.css": "/a/static/css/main.08c59761.chunk.css",
+    "main.js": "/a/static/js/main.8c3b54e2.chunk.js",
+    "main.js.map": "/a/static/js/main.8c3b54e2.chunk.js.map",
     "runtime-main.js": "/a/static/js/runtime-main.6d58fdf4.js",
     "runtime-main.js.map": "/a/static/js/runtime-main.6d58fdf4.js.map",
     "static/css/2.83767612.chunk.css": "/a/static/css/2.83767612.chunk.css",
-    "static/js/2.1cf8faea.chunk.js": "/a/static/js/2.1cf8faea.chunk.js",
-    "static/js/2.1cf8faea.chunk.js.map": "/a/static/js/2.1cf8faea.chunk.js.map",
+    "static/js/2.7bb9930b.chunk.js": "/a/static/js/2.7bb9930b.chunk.js",
+    "static/js/2.7bb9930b.chunk.js.map": "/a/static/js/2.7bb9930b.chunk.js.map",
     "index.html": "/a/index.html",
-    "precache-manifest.13697614f28e4f6c532ed783cf788f6b.js": "/a/precache-manifest.13697614f28e4f6c532ed783cf788f6b.js",
+    "precache-manifest.667a9d1ad5f1624ce15f134cc2868567.js": "/a/precache-manifest.667a9d1ad5f1624ce15f134cc2868567.js",
     "service-worker.js": "/a/service-worker.js",
     "static/css/2.83767612.chunk.css.map": "/a/static/css/2.83767612.chunk.css.map",
-    "static/css/main.6bc0a8e0.chunk.css.map": "/a/static/css/main.6bc0a8e0.chunk.css.map",
-    "static/js/2.1cf8faea.chunk.js.LICENSE.txt": "/a/static/js/2.1cf8faea.chunk.js.LICENSE.txt",
+    "static/css/main.08c59761.chunk.css.map": "/a/static/css/main.08c59761.chunk.css.map",
+    "static/js/2.7bb9930b.chunk.js.LICENSE.txt": "/a/static/js/2.7bb9930b.chunk.js.LICENSE.txt",
     "static/media/albertli.JPG": "/a/static/media/albertli.371f62d5.JPG",
     "static/media/android.png": "/a/static/media/android.48216b42.png",
     "static/media/aws.png": "/a/static/media/aws.90bc46c1.png",
@@ -27,17 +27,14 @@
     "static/media/kubernetes.png": "/a/static/media/kubernetes.4655ae6f.png",
     "static/media/linkedin_white.png": "/a/static/media/linkedin_white.82bf1657.png",
     "static/media/linux.png": "/a/static/media/linux.35781b9b.png",
-    "static/media/nodejs.jpg": "/a/static/media/nodejs.3503c59a.jpg",
-    "static/media/nodejs.webp": "/a/static/media/nodejs.f1e20005.webp",
     "static/media/python.png": "/a/static/media/python.7e6fd771.png",
-    "static/media/react.webp": "/a/static/media/react.4603f0d1.webp",
     "static/media/react.png": "/a/static/media/react.ae4b8b99.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6d58fdf4.js",
     "static/css/2.83767612.chunk.css",
-    "static/js/2.1cf8faea.chunk.js",
-    "static/css/main.6bc0a8e0.chunk.css",
-    "static/js/main.fc408da5.chunk.js"
+    "static/js/2.7bb9930b.chunk.js",
+    "static/css/main.08c59761.chunk.css",
+    "static/js/main.8c3b54e2.chunk.js"
   ]
 }
