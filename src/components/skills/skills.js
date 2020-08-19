@@ -33,7 +33,7 @@ export default class Skills extends React.Component {
           <Icon image="android.png" name="Android"/>
           <Icon image="flutter.png" name="Flutter"/>
           <Icon image="flask.png" name="Flask"/>
-          <Icon image="nodejs.jpg" name="Node.js"/>
+          <Icon image="nodejs.png" name="Node.js"/>
           <Icon image="kubernetes.png" name="Kubernetes"/>
           {/* <Icon image="aws.png" name="AWS"/> */}
         </div>

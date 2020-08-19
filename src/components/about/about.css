@@ -21,3 +21,13 @@ img {
   padding-top: 2%;
   padding-bottom: 2%;
 }
+
+.centered {
+  text-align: center;
+}
+
+.text {
+  text-align: left;
+  padding-left: 15%;
+  padding-right: 15%;
+}
