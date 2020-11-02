@@ -25,9 +25,9 @@ function App() {
       <Element name="skills">
         <Skills title="skills"/>
       </Element>
-      <Element name="experience">
+      {/* <Element name="experience">
         <Experience title="experience"/>
-      </Element>
+      </Element> */}
       {/* <Element name="projects">
         <Projects title="projects"/>
       </Element> */}

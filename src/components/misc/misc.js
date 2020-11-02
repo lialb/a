@@ -15,13 +15,13 @@ function Misc() {
             I like<a href='https://lichess.org/@/Albear' rel="noopener noreferrer" target='_blank'> chess</a>
           </p>
           <p data-aos="fade-up" data-aos-delay="200">
-            I enjoy playing soccer and basketball
+            Big fan of soccer and basketball
           </p>
           <p data-aos="fade-up" data-aos-delay="200">
             I actually use Vim and Arch (btw)
           </p>
           <p data-aos="fade-up" data-aos-delay="200">
-            I have a fat cat named Samwise
+            I work hard so my cat (Samwise) can have a better life
           </p >
           <img src={Cat} width="30%" alt="Samwise Cat" data-aos="fade-up" data-aos-delay="200"/>
           <br></br>

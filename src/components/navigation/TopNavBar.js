@@ -30,13 +30,13 @@ export default class TopNavBar extends Component {
            smooth={true}
            offset={10}
            duration={500}>Skills</Link></Nav.Link>
-          <Nav.Link><Link 
+          {/* <Nav.Link><Link 
            activeClass="active"
            to="experience"
            spy={true}
            smooth={true}
            offset={15}
-           duration={500}>Experience</Link></Nav.Link>
+           duration={500}>Experience</Link></Nav.Link> */}
           {/* <Nav.Link><Link 
            activeClass="active"
            to="projects"
