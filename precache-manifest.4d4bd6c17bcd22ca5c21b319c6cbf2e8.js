@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddb19f5edfb74ffe51441be50e16d6c7",
+    "revision": "04d89d3f7a2535c893ee275abddb43c2",
     "url": "/a/index.html"
   },
   {
-    "revision": "30ddb4ce88c3cc2ff92b",
+    "revision": "aa3f29ed8b334755ead2",
     "url": "/a/static/css/2.83767612.chunk.css"
   },
   {
-    "revision": "d38184c58e95a29698fb",
+    "revision": "3baeb015679ee6312cc4",
     "url": "/a/static/css/main.333b1a12.chunk.css"
   },
   {
-    "revision": "30ddb4ce88c3cc2ff92b",
-    "url": "/a/static/js/2.d2b7c32b.chunk.js"
+    "revision": "aa3f29ed8b334755ead2",
+    "url": "/a/static/js/2.d0dbb8d1.chunk.js"
   },
   {
     "revision": "11a928b57aca5049fe950bf8bcde77c5",
-    "url": "/a/static/js/2.d2b7c32b.chunk.js.LICENSE.txt"
+    "url": "/a/static/js/2.d0dbb8d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d38184c58e95a29698fb",
-    "url": "/a/static/js/main.07d58572.chunk.js"
+    "revision": "3baeb015679ee6312cc4",
+    "url": "/a/static/js/main.d3d03282.chunk.js"
   },
   {
     "revision": "f79f8eeeb3e944352a4c",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/a/static/media/flutter.67642a0b.png"
   },
   {
+    "revision": "ff12764cd2fd6e513c532f6623f076ca",
+    "url": "/a/static/media/github_black.ff12764c.png"
+  },
+  {
     "revision": "89c2c0674bdba3d61daf6b1b1e5e82b5",
     "url": "/a/static/media/github_white.89c2c067.png"
   },
@@ -70,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4655ae6f8193d16e391f8971119decee",
     "url": "/a/static/media/kubernetes.4655ae6f.png"
+  },
+  {
+    "revision": "f07a55612414606995c8911fd8786fcb",
+    "url": "/a/static/media/linkedin_black.f07a5561.png"
   },
   {
     "revision": "82bf1657565079450683cd7fb952cb28",
