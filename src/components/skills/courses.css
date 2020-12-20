@@ -3,3 +3,10 @@
     background-color: #f2f2f2;
     padding: 5%;
 }
+
+.bullets {
+  font-size: large;
+  text-align: left;
+  padding-left: 18%;
+  padding-right: 15%;
+}

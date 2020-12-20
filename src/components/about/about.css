@@ -7,12 +7,11 @@
   text-align: center;
   padding-top: 5%;
 }
-ul {
-  /* display: table;
-  margin: 0 auto; */
-  text-align: center;
-  list-style: inside;
-}
+
+/* .picture {
+  border-radius: 50%;
+} */
+
 p {
   font-size: large;
 }
@@ -29,5 +28,12 @@ img {
 .text {
   text-align: left;
   padding-left: 15%;
+  padding-right: 15%;
+}
+
+.bullets {
+  font-size: large;
+  text-align: left;
+  padding-left: 18%;
   padding-right: 15%;
 }

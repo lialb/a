@@ -10,14 +10,15 @@ export default class Courses extends React.Component {
       <div className="courses-main">
         <div data-aos-delay="200">
           <h1 className="display-5">
-            Relevant Courses I've Taken:
+            Cool Courses I've Taken:
           </h1>
           <br/>
           <p>
-            Algorithms & Models of Computation (374), Data Structures (225), Computer Architecture (233), Ethics in CS (210), Discrete Structures (173), Honors (196 & 296)
+           💻 Alogrithms • System Programming • Database Systems • Programming Languages & Compilers • Data Structures • Computer Architecture 
           </p>
+          <br/>
           <p>
-            Applied Linear Algebra (415), Differential Equations (441), Statistical Analysis (200), Probability & Statistics I and II (400 & 410),  Methods of Applied Statistics (420)
+            📊 Applied Linear Algebra • Differential Equations • Statistical Analysis • Probability & Statistics I - II • Methods of Applied Statistics
           </p>
         </div>
         <br/>
@@ -25,7 +26,7 @@ export default class Courses extends React.Component {
           <h3>In Progress</h3>
           <br/>
           <p>
-            System Programming (241), Numerical Methods (357), Database Systems (411), Programming Languages & Compilers (421)
+            Distributed Systems, Computer Security, UI Design, Bioinformatics
           </p>
         </div>
       </div>
