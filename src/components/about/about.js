@@ -3,6 +3,8 @@ import './about.css';
 import Portrait from '../../Assets/albertli.JPG';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import GithubLogo from '../../Assets/github_black.png';
+import LinkedInLogo from '../../Assets/linkedin_black.png';
 
 export default class About extends Component {
   render() {
@@ -44,7 +46,7 @@ export default class About extends Component {
             </li>
             <br/>
             <li>
-              <strong>Caterpillar</strong> 🚜 and created a visualization and analytics web platform that
+              <strong>Caterpillar</strong> 🚜 creating a visualization / analytics web platform that
               improved efficiency of data lookup for 700+ engineers (still growing!)
             </li>
             <br/>
@@ -63,6 +65,13 @@ export default class About extends Component {
             I'm particularly proud of my <a href="https://lialbert.com/uiuc-diversity/" target="_blank" rel="noopener noreferrer"><strong>UIUC Diversity</strong> </a> 
             project, interactively displaying 15 years of racial demographics of every major and college at the University of Illinois.
           </p>
+          <br/>
+          <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
+            <img className="github-logo" src={GithubLogo} alt="Github"/>
+          </a>
+          <a href="https://www.linkedin.com/in/albearli/" target="_blank" rel="noopener noreferrer">
+            <img className='linkedin-logo' src={LinkedInLogo} alt="LinkedIn"/>
+          </a>
         </div>
       </div>
     );
