@@ -32,7 +32,7 @@ export default class About extends Component {
         <hr width="70%"/>
         <div data-aos="fade-right" data-aos-delay="200" className="centered">
           <p className="text">
-            I'm a junior at UIUC. I'll be a Software Engineer Intern at <strong>Salesforce-Tableau</strong> and <strong>Facebook</strong> in 2021.
+            I'm a junior at UIUC. I'll be a Software Engineer Intern at <strong>Salesforce - Tableau</strong> and <strong>Facebook</strong> in 2021.
             <br/>
             <br/>
             In the past, I've worked at:

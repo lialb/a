@@ -14,7 +14,7 @@ export default class Courses extends React.Component {
           </h1>
           <br/>
           <p>
-           💻 Alogrithms • System Programming • Database Systems • Programming Languages & Compilers • Data Structures • Computer Architecture 
+           💻 Algorithms • System Programming • Database Systems • Programming Languages & Compilers • Data Structures • Computer Architecture 
           </p>
           <br/>
           <p>
@@ -26,7 +26,7 @@ export default class Courses extends React.Component {
           <h3>In Progress</h3>
           <br/>
           <p>
-            Distributed Systems, Computer Security, UI Design, Bioinformatics
+            Distributed Systems • Computer Security • User Interface Design • Bioinformatics
           </p>
         </div>
       </div>
