@@ -8,8 +8,7 @@ function Misc() {
   AOS.init();
   return(
     <div className="misc-main">
-      <h1 className="display-5 misc-title">Miscellaneous</h1>
-      {/* <h1 className="facts-title">Facts:</h1> */}
+      <h1 className="display-5 misc-title">Other Stuff</h1>
       <div className="facts">
           <p data-aos="fade-up" data-aos-delay="200">
             I like<a href='https://lichess.org/@/Albear' rel="noopener noreferrer" target='_blank'> chess ♟️</a>

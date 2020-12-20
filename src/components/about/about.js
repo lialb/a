@@ -13,7 +13,7 @@ export default class About extends Component {
       <div className="about-main">
         <div className="about-text">
           <h1 data-aos="fade-up" data-aos-delay="200" className="display-5">
-            About
+            Hey!
           </h1>
           <img data-aos="fade-up" data-aos-delay="200" src={Portrait} width="30%" alt="Albert Li" className="picture"></img>
           <h2 data-aos="fade-left">
@@ -32,9 +32,7 @@ export default class About extends Component {
         <hr width="70%"/>
         <div data-aos="fade-right" data-aos-delay="200" className="centered">
           <p className="text">
-            Incoming SWE Intern at <strong>Salesforce Tableau</strong> for summer '21
-            <br/>
-            Incoming SWE Intern at <strong>Facebook</strong> for fall '21
+            I'm a junior at UIUC. I'll be a Software Engineer Intern at <strong>Salesforce-Tableau</strong> and <strong>Facebook</strong> in 2021.
             <br/>
             <br/>
             In the past, I've worked at:
@@ -55,6 +53,9 @@ export default class About extends Component {
               web portal used by PMs, analysts, and executives
             </li>
           </ul>
+          <p className="text">
+            I also helped teach <strong>CS 196: Freshman Honors</strong> and <strong>CS 125: Intro to CS</strong>
+          </p>
         </div>
         <hr width="70%"/>
         <div data-aos="fade-left" data-aos-delay="200" class="centered">
