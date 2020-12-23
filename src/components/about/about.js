@@ -70,7 +70,7 @@ export default class About extends Component {
           <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
             <img className="github-logo" src={GithubLogo} alt="Github"/>
           </a>
-          <a href="https://www.linkedin.com/in/albearli/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/albs/" target="_blank" rel="noopener noreferrer">
             <img className='linkedin-logo' src={LinkedInLogo} alt="LinkedIn"/>
           </a>
         </div>

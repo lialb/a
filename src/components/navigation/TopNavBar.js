@@ -62,7 +62,7 @@ export default class TopNavBar extends Component {
               alt="github-logo"
             />
           </Navbar.Brand>
-          <Navbar.Brand href="https://www.linkedin.com/in/albearli/" target="_blank" rel="noopener noreferrer">
+          <Navbar.Brand href="https://www.linkedin.com/in/albs/" target="_blank" rel="noopener noreferrer">
             <img
               src={ LinkedInLogo }
               width="30"
