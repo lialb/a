@@ -8,10 +8,6 @@
   padding-top: 5%;
 }
 
-/* .picture {
-  border-radius: 50%;
-} */
-
 p {
   font-size: large;
 }
@@ -36,4 +32,24 @@ img {
   text-align: left;
   padding-left: 18%;
   padding-right: 15%;
+}
+
+.ameren {
+  color: #35962B;
+}
+
+.msi {
+  color: black;
+}
+
+.cat {
+  color: #d5b60a;
+}
+
+.tableau {
+  color: #4e79a7;
+}
+
+.fb {
+  color: #4267B2;
 }

@@ -4,7 +4,7 @@ import Home from './components/home/home';
 import TopNavbar from './components/navigation/TopNavBar';
 import About from './components/about/about';
 import Skills from './components/skills/skills';
-import Experience from './components/experience/exp';
+// import Experience from './components/experience/exp';
 import Misc from './components/misc/misc';
 import Footer from './components/footer/footer';
 import Particles from './components/particles/particles';

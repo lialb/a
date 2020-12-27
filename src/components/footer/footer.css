@@ -11,6 +11,7 @@
   padding-top: .5%;  
   padding-bottom: .5%;
   padding-right: .25%;
+  /* padding-left: .25%; */
 }
 
 .linkedin-logo {
@@ -23,4 +24,8 @@
 
 .credit {
   color: white;
+}
+
+.email-link {
+  color: white !important;
 }
