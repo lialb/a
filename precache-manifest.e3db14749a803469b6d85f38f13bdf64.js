@@ -1,0 +1,98 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "81f70a6671b54862284bd4eee9fdfadb",
+    "url": "/a/index.html"
+  },
+  {
+    "revision": "e9bf8c99623ca9db1dd1",
+    "url": "/a/static/css/2.83767612.chunk.css"
+  },
+  {
+    "revision": "16d49c1adf70f2d662da",
+    "url": "/a/static/css/main.a1b80920.chunk.css"
+  },
+  {
+    "revision": "e9bf8c99623ca9db1dd1",
+    "url": "/a/static/js/2.0b158ea9.chunk.js"
+  },
+  {
+    "revision": "11a928b57aca5049fe950bf8bcde77c5",
+    "url": "/a/static/js/2.0b158ea9.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "16d49c1adf70f2d662da",
+    "url": "/a/static/js/main.a9798f36.chunk.js"
+  },
+  {
+    "revision": "f79f8eeeb3e944352a4c",
+    "url": "/a/static/js/runtime-main.6d58fdf4.js"
+  },
+  {
+    "revision": "5c3b66928d58d50f5387cbb66cc397fd",
+    "url": "/a/static/media/albertli.5c3b6692.JPG"
+  },
+  {
+    "revision": "48216b425be5fcfc1c7f653501ef4758",
+    "url": "/a/static/media/android.48216b42.png"
+  },
+  {
+    "revision": "90bc46c103398c48bca866a94aa708c4",
+    "url": "/a/static/media/aws.90bc46c1.png"
+  },
+  {
+    "revision": "a9207311729937b2808d25cddd8d5830",
+    "url": "/a/static/media/cat.a9207311.jpg"
+  },
+  {
+    "revision": "74932018f26093826488dfb377fccec7",
+    "url": "/a/static/media/cpp.74932018.png"
+  },
+  {
+    "revision": "67642a0b80f3d50277c44cde8f450e50",
+    "url": "/a/static/media/flutter.67642a0b.png"
+  },
+  {
+    "revision": "ff12764cd2fd6e513c532f6623f076ca",
+    "url": "/a/static/media/github_black.ff12764c.png"
+  },
+  {
+    "revision": "89c2c0674bdba3d61daf6b1b1e5e82b5",
+    "url": "/a/static/media/github_white.89c2c067.png"
+  },
+  {
+    "revision": "334a35d353fed1484c6bd38f8cc240bb",
+    "url": "/a/static/media/html.334a35d3.png"
+  },
+  {
+    "revision": "428c3dfafca4abe3d6f1d43e3786ab69",
+    "url": "/a/static/media/java.428c3dfa.png"
+  },
+  {
+    "revision": "79046a553ce2e9ea7fc1992ede20e610",
+    "url": "/a/static/media/javascript.79046a55.png"
+  },
+  {
+    "revision": "4655ae6f8193d16e391f8971119decee",
+    "url": "/a/static/media/kubernetes.4655ae6f.png"
+  },
+  {
+    "revision": "f07a55612414606995c8911fd8786fcb",
+    "url": "/a/static/media/linkedin_black.f07a5561.png"
+  },
+  {
+    "revision": "82bf1657565079450683cd7fb952cb28",
+    "url": "/a/static/media/linkedin_white.82bf1657.png"
+  },
+  {
+    "revision": "35781b9b9a781ed84efb32bde9f437ce",
+    "url": "/a/static/media/linux.35781b9b.png"
+  },
+  {
+    "revision": "7e6fd771d469f5e3b6cfab160a65914d",
+    "url": "/a/static/media/python.7e6fd771.png"
+  },
+  {
+    "revision": "ae4b8b99ee9edb14768ada16e3f22e8c",
+    "url": "/a/static/media/react.ae4b8b99.png"
+  }
+]);
