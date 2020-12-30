@@ -22,7 +22,7 @@ function Misc() {
           <p data-aos="fade-up" data-aos-delay="200">
             I work hard so my cat (Samwise) can have a better life
           </p >
-          <img src={Cat} width="30%" alt="Samwise Cat" data-aos="fade-up" data-aos-delay="200"/>
+          <img className="cat-picture" src={Cat} width="30%" alt="Samwise Cat" data-aos="fade-up" data-aos-delay="200"/>
           <br></br>
           <p>
             This page has been viewed at least &nbsp;<img src="https://stuff.mit.edu/cgi/counter/albearli" alt="counter" className="counter"></img> &nbsp; times

@@ -17,6 +17,19 @@ img {
   padding-bottom: 2%;
 }
 
+.picture {
+  border-radius: 50%;
+  width: 20%;
+}
+@media (max-width: 800px) {
+  .picture {
+    width: 50%;
+  }
+  p {
+    font-size: medium;
+  }
+}
+
 .centered {
   text-align: center;
 }
