@@ -18,11 +18,12 @@ export default class Skills extends React.Component {
             Languages: 
           </h1>
           <Icon image="python.png" name="Python"/>
+          <Icon image="cpp.png" name="C++"/>
           <Icon image="javascript.png" name="JavaScript"/>
           <Icon image="typescript.png" name="TypeScript"/>
           <Icon image="java.png" name="Java"/>
-          <Icon image="cpp.png" name="C++"/>
-          <Icon image="r.png" name="R"/>
+          <Icon image="sql.png" name="SQL"/>
+          <Icon image="shell.png" name="Shell"/>
         </div>
         <div data-aos="fade-up" data-aos-delay="200" className="tech">
           <h1 data-aos-delay="200" className="tech-label d-none d-sm-block">
@@ -30,12 +31,12 @@ export default class Skills extends React.Component {
           </h1>
           <Icon image="angular.png" name="Angular"/>
           <Icon image="react.png" name="React"/>
-          {/* <Icon image="android.png" name="Android"/> */}
           <Icon image="flutter.png" name="Flutter"/>
           <Icon image="flask.png" name="Flask"/>
           <Icon image="nodejs.png" name="Node.js"/>
+          <Icon image="mysql.png" name="MySQL"/>
+          <Icon image="mongo.png" name="MongoDB"/>
           <Icon image="kubernetes.png" name="Kubernetes"/>
-          {/* <Icon image="aws.png" name="AWS"/> */}
         </div>
         <br/>
         <Courses></Courses>
