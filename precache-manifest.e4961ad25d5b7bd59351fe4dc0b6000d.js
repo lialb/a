@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a4f625addf73a57d55c3f684b459fd0",
+    "revision": "29f263b0dbfbea7afd0e8cc24e8dcbe7",
     "url": "/a/index.html"
   },
   {
-    "revision": "42e051de3312be36700e",
+    "revision": "29f3b712985019c21f17",
     "url": "/a/static/css/2.83767612.chunk.css"
   },
   {
-    "revision": "3542e73b31c8c05a4d05",
-    "url": "/a/static/css/main.cfee3edb.chunk.css"
+    "revision": "ab0dd40e3c8aa760d814",
+    "url": "/a/static/css/main.97105b47.chunk.css"
   },
   {
-    "revision": "42e051de3312be36700e",
-    "url": "/a/static/js/2.7a2f7ea5.chunk.js"
+    "revision": "29f3b712985019c21f17",
+    "url": "/a/static/js/2.fb7944e4.chunk.js"
   },
   {
     "revision": "d559e781f08bcd5fe7840f16ea0b8e44",
-    "url": "/a/static/js/2.7a2f7ea5.chunk.js.LICENSE.txt"
+    "url": "/a/static/js/2.fb7944e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3542e73b31c8c05a4d05",
-    "url": "/a/static/js/main.c3837ffe.chunk.js"
+    "revision": "ab0dd40e3c8aa760d814",
+    "url": "/a/static/js/main.2667999f.chunk.js"
   },
   {
     "revision": "f79f8eeeb3e944352a4c",
@@ -36,14 +36,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/a/static/media/albertli.5c3b6692.JPG"
   },
   {
-    "revision": "48216b425be5fcfc1c7f653501ef4758",
-    "url": "/a/static/media/android.48216b42.png"
-  },
-  {
-    "revision": "90bc46c103398c48bca866a94aa708c4",
-    "url": "/a/static/media/aws.90bc46c1.png"
-  },
-  {
     "revision": "a9207311729937b2808d25cddd8d5830",
     "url": "/a/static/media/cat.a9207311.jpg"
   },
@@ -52,20 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/a/static/media/cpp.74932018.png"
   },
   {
-    "revision": "67642a0b80f3d50277c44cde8f450e50",
-    "url": "/a/static/media/flutter.67642a0b.png"
-  },
-  {
-    "revision": "334a35d353fed1484c6bd38f8cc240bb",
-    "url": "/a/static/media/html.334a35d3.png"
+    "revision": "55150ae573eaef33b4ef7cbed6f5457e",
+    "url": "/a/static/media/flutter.55150ae5.png"
   },
   {
     "revision": "428c3dfafca4abe3d6f1d43e3786ab69",
     "url": "/a/static/media/java.428c3dfa.png"
   },
   {
-    "revision": "79046a553ce2e9ea7fc1992ede20e610",
-    "url": "/a/static/media/javascript.79046a55.png"
+    "revision": "7f2092da56fc7a0f40b63019e0400042",
+    "url": "/a/static/media/javascript.7f2092da.png"
   },
   {
     "revision": "4655ae6f8193d16e391f8971119decee",
@@ -76,11 +64,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/a/static/media/linux.35781b9b.png"
   },
   {
+    "revision": "cad17d24f13e2575c57a46bc64f20740",
+    "url": "/a/static/media/mongo.cad17d24.png"
+  },
+  {
+    "revision": "07c28adf28e0592b46094aef81fcc655",
+    "url": "/a/static/media/mysql.07c28adf.png"
+  },
+  {
     "revision": "7e6fd771d469f5e3b6cfab160a65914d",
     "url": "/a/static/media/python.7e6fd771.png"
   },
   {
     "revision": "ae4b8b99ee9edb14768ada16e3f22e8c",
     "url": "/a/static/media/react.ae4b8b99.png"
+  },
+  {
+    "revision": "08da25e90186541d3bc6d86879c944c7",
+    "url": "/a/static/media/shell.08da25e9.png"
   }
 ]);
