@@ -50,7 +50,7 @@ export default class TopNavBar extends Component {
               smooth={true}
               offset={10}
               duration={500}>
-              Me
+              More
             </Link>
           </Nav.Link>
           <Nav.Link>

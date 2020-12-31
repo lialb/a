@@ -9,7 +9,7 @@ function Footer() {
       <div className="social-icons">
         <br/>
         <a href="mailto:albert.yiliang@gmail.com">
-          <FontAwesomeIcon icon="inbox" className="social-icon-white"/>
+          <FontAwesomeIcon icon="envelope" className="social-icon-white"/>
         </a>
         <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={['fab', 'github']} className="social-icon-white" size="lg"/>

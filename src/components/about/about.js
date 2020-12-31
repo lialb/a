@@ -76,7 +76,7 @@ export default class About extends Component {
           </p>
           <div className="social-icons">
             <a href="mailto:albert.yiliang@gmail.com">
-              <FontAwesomeIcon icon="inbox" className="social-icon" />
+              <FontAwesomeIcon icon="envelope" className="social-icon" />
             </a>
             <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={['fab', 'github']} className="social-icon" size="lg" />

@@ -11,9 +11,9 @@ import { Element } from 'react-scroll';
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
-import { faInbox, faFileAlt, faHome } from '@fortawesome/free-solid-svg-icons'
+import { faEnvelope, faFileAlt, faHome } from '@fortawesome/free-solid-svg-icons'
 
-library.add(fab, faInbox, faFileAlt, faHome);
+library.add(fab, faEnvelope, faFileAlt, faHome);
 
 function App() {
   return (
