@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81f70a6671b54862284bd4eee9fdfadb",
+    "revision": "9a4f625addf73a57d55c3f684b459fd0",
     "url": "/a/index.html"
   },
   {
-    "revision": "e9bf8c99623ca9db1dd1",
+    "revision": "42e051de3312be36700e",
     "url": "/a/static/css/2.83767612.chunk.css"
   },
   {
-    "revision": "16d49c1adf70f2d662da",
-    "url": "/a/static/css/main.a1b80920.chunk.css"
+    "revision": "3542e73b31c8c05a4d05",
+    "url": "/a/static/css/main.cfee3edb.chunk.css"
   },
   {
-    "revision": "e9bf8c99623ca9db1dd1",
-    "url": "/a/static/js/2.0b158ea9.chunk.js"
+    "revision": "42e051de3312be36700e",
+    "url": "/a/static/js/2.7a2f7ea5.chunk.js"
   },
   {
-    "revision": "11a928b57aca5049fe950bf8bcde77c5",
-    "url": "/a/static/js/2.0b158ea9.chunk.js.LICENSE.txt"
+    "revision": "d559e781f08bcd5fe7840f16ea0b8e44",
+    "url": "/a/static/js/2.7a2f7ea5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16d49c1adf70f2d662da",
-    "url": "/a/static/js/main.a9798f36.chunk.js"
+    "revision": "3542e73b31c8c05a4d05",
+    "url": "/a/static/js/main.c3837ffe.chunk.js"
   },
   {
     "revision": "f79f8eeeb3e944352a4c",
     "url": "/a/static/js/runtime-main.6d58fdf4.js"
+  },
+  {
+    "revision": "6d3e9359e1bc8cb403682d72239c5c28",
+    "url": "/a/static/media/Albert-Li-Resume.6d3e9359.pdf"
   },
   {
     "revision": "5c3b66928d58d50f5387cbb66cc397fd",
@@ -52,14 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/a/static/media/flutter.67642a0b.png"
   },
   {
-    "revision": "ff12764cd2fd6e513c532f6623f076ca",
-    "url": "/a/static/media/github_black.ff12764c.png"
-  },
-  {
-    "revision": "89c2c0674bdba3d61daf6b1b1e5e82b5",
-    "url": "/a/static/media/github_white.89c2c067.png"
-  },
-  {
     "revision": "334a35d353fed1484c6bd38f8cc240bb",
     "url": "/a/static/media/html.334a35d3.png"
   },
@@ -74,14 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4655ae6f8193d16e391f8971119decee",
     "url": "/a/static/media/kubernetes.4655ae6f.png"
-  },
-  {
-    "revision": "f07a55612414606995c8911fd8786fcb",
-    "url": "/a/static/media/linkedin_black.f07a5561.png"
-  },
-  {
-    "revision": "82bf1657565079450683cd7fb952cb28",
-    "url": "/a/static/media/linkedin_white.82bf1657.png"
   },
   {
     "revision": "35781b9b9a781ed84efb32bde9f437ce",
