@@ -1,6 +1,6 @@
 .home-main {
   background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
-  /* background-image: linear-gradient(to top, #cb2d3e 0%, #30122d 100%); */
+  /* background-image: linear-gradient(to top, rgb(23,42, 69) 0%, #30122d 100%); */
   height: 100%;
   width: 100%;
   position: relative;
@@ -10,6 +10,7 @@
   align-items: center;
   justify-content: center;
 }
+
 .home-text {
   color: white;
   width: 100%;

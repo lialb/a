@@ -1,5 +1,6 @@
 .footer-main {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  background-color: rgb(23, 42, 69);
   text-align: center;
   bottom: 100%;
   padding-bottom: .05%;
@@ -23,9 +24,14 @@
 }
 
 .credit {
+  color: rgb(136, 146, 176)
+}
+
+
+.social-icon-white {
   color: white;
 }
 
-.email-link {
-  color: white !important;
+.social-icon-white:hover {
+  color: rgb(136, 146, 176);
 }

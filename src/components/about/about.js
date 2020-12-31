@@ -3,9 +3,9 @@ import './about.css';
 import Portrait from '../../Assets/albertli.JPG';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import GithubLogo from '../../Assets/github_black.png';
-import LinkedInLogo from '../../Assets/linkedin_black.png';
-// import EmailIcon from '../../Assets/email_black.png';
+import Resume from '../../Assets/Albert-Li-Resume.pdf';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export default class About extends Component {
   render() {
@@ -64,8 +64,8 @@ export default class About extends Component {
           </p>
         </div>
         <hr width="70%"/>
-        <div data-aos="fade-left" data-aos-delay="200" class="centered">
-          <p class="text">
+        <div data-aos="fade-left" data-aos-delay="200" className="centered">
+          <p className="text">
             When I'm not working or doing homework, I enjoy teaching, working out, learning new stuff, and cats.
             <br/>
             <br/>
@@ -73,14 +73,21 @@ export default class About extends Component {
             project, interactively displaying 15 years of racial demographics of every major and college at the University of Illinois.
             <br/>
             <br/>
-            Feel free to contact me! ✉️ <strong><a href="mailto:albert.yiliang@gmail.com">albert.yiliang@gmail.com</a></strong>
           </p>
-          <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
-            <img className="github-logo" src={GithubLogo} alt="Github"/>
-          </a>
-          <a href="https://www.linkedin.com/in/albs/" target="_blank" rel="noopener noreferrer">
-            <img className='linkedin-logo' src={LinkedInLogo} alt="LinkedIn"/>
-          </a>
+          <div className="social-icons">
+            <a href="mailto:albert.yiliang@gmail.com">
+              <FontAwesomeIcon icon="inbox" className="social-icon"/>
+            </a>
+            <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={['fab', 'github']} className="social-icon" size="lg"/>
+            </a>
+            <a href="https://www.linkedin.com/in/albs/" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={['fab', 'linkedin']} className="social-icon" size="lg"/>
+            </a>
+            <a href={Resume} target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon="file-alt" className="social-icon" size="lg"/>
+            </a>
+          </div>
         </div>
       </div>
     );

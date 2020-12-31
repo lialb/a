@@ -66,3 +66,15 @@ img {
 .fb {
   color: #4267B2;
 }
+
+.social-icon {
+  color: black !important;
+  /* padding-left: 2em; */
+}
+.social-icon:hover {
+  color: #C0C0C0 !important;
+}
+
+.social-icons a + a {
+  padding-left: 1.2em;
+}

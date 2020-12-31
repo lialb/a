@@ -1,2 +1,11 @@
-.nav-buttons {
+.navbar-main {
+  background-color: rgb(23, 42, 69);
+}
+
+.navbar-main {
+  color: rgb(136, 146, 176);
+}
+
+.home-button:hover {
+  cursor: pointer;
 }

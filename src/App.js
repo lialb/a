@@ -4,12 +4,16 @@ import Home from './components/home/home';
 import TopNavbar from './components/navigation/TopNavBar';
 import About from './components/about/about';
 import Skills from './components/skills/skills';
-// import Experience from './components/experience/exp';
 import Misc from './components/misc/misc';
 import Footer from './components/footer/footer';
 import Particles from './components/particles/particles';
 import { Element } from 'react-scroll';
-// import Projects from './components/projects/projects';
+
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { faInbox, faFileAlt, faHome } from '@fortawesome/free-solid-svg-icons'
+
+library.add(fab, faInbox, faFileAlt, faHome);
 
 function App() {
   return (
@@ -25,16 +29,12 @@ function App() {
       <Element name="skills">
         <Skills title="skills"/>
       </Element>
-      {/* <Element name="experience">
-        <Experience title="experience"/>
-      </Element> */}
-      {/* <Element name="projects">
-        <Projects title="projects"/>
-      </Element> */}
       <Element name="misc">
         <Misc title="misc"/>
       </Element>
-      <Footer/>
+      <Element name="contact">
+        <Footer title="contact"/>
+      </Element>
     </div>
   );
 }
