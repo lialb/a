@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3de04aebc1329df84b7b6c03a355e55",
+    "revision": "98ac0ea9d89a5daf1d70b9fb6523cc07",
     "url": "/a/index.html"
   },
   {
-    "revision": "926dc9eea902a34ee134",
+    "revision": "2f0d32527301a6687dc8",
     "url": "/a/static/css/2.83767612.chunk.css"
   },
   {
-    "revision": "8b7d6bead5ae168ec8d4",
+    "revision": "6c6a5a758663c5d78b2f",
     "url": "/a/static/css/main.97105b47.chunk.css"
   },
   {
-    "revision": "926dc9eea902a34ee134",
-    "url": "/a/static/js/2.012e8d70.chunk.js"
+    "revision": "2f0d32527301a6687dc8",
+    "url": "/a/static/js/2.f9fa2c6e.chunk.js"
   },
   {
     "revision": "d559e781f08bcd5fe7840f16ea0b8e44",
-    "url": "/a/static/js/2.012e8d70.chunk.js.LICENSE.txt"
+    "url": "/a/static/js/2.f9fa2c6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b7d6bead5ae168ec8d4",
-    "url": "/a/static/js/main.35fed26b.chunk.js"
+    "revision": "6c6a5a758663c5d78b2f",
+    "url": "/a/static/js/main.2f3b8f32.chunk.js"
   },
   {
     "revision": "f79f8eeeb3e944352a4c",
     "url": "/a/static/js/runtime-main.6d58fdf4.js"
-  },
-  {
-    "revision": "963cc78c4af5d92cf40efe44ac0ce56e",
-    "url": "/a/static/media/Albert-Li-Resume.963cc78c.pdf"
   },
   {
     "revision": "5c3b66928d58d50f5387cbb66cc397fd",
