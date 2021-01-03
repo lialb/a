@@ -2,6 +2,7 @@ import React from 'react';
 import './home.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function Home() {
   AOS.init();
@@ -70,6 +71,22 @@ function Home() {
       <div className="home-text">
         <h1 data-aos="fade-left" data-aos-delay="600" className="display-3">hello, world</h1>
         <h1 data-aos="fade-right" data-aos-delay="600" className="display-3">I'm Albert Li</h1>
+      </div>
+      <div className="social-icons">
+        <br/>
+        <a href="mailto:albert.yiliang@gmail.com">
+          <FontAwesomeIcon icon="envelope" className="social-icon-white" size="2x"/>
+        </a>
+        <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={['fab', 'github']} className="social-icon-white" size="2x"/>
+        </a>
+        <a href="https://www.linkedin.com/in/albs/" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={['fab', 'linkedin']} className="social-icon-white" size="2x"/>
+        </a>
+        <a href="./Albert-Li-Resume.pdf" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon="file-alt" className="social-icon-white" size="2x"/>
+        </a>
+      </div>
         {/* <h1 className="display-3">I'm
           <span
             className="txt-rotate"
@@ -77,7 +94,6 @@ function Home() {
             data-rotate='[ " Albert Li", " a developer", " an adventurer", " trying my best" ]'>
           </span>
         </h1> */}
-      </div>
     </div>
   );
 }

@@ -21,6 +21,7 @@ img {
   border-radius: 50%;
   width: 20%;
 }
+
 @media (max-width: 800px) {
   .picture {
     width: 50%;
@@ -69,8 +70,8 @@ img {
 
 .social-icon {
   color: black !important;
-  /* padding-left: 2em; */
 }
+
 .social-icon:hover {
   color: #C0C0C0 !important;
 }

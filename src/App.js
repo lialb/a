@@ -17,7 +17,7 @@ library.add(fab, faEnvelope, faFileAlt, faHome);
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <TopNavbar className="navbar d-none d-sm-block"/>
       <Particles/>
       <Element name="home">

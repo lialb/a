@@ -3,9 +3,7 @@ import './about.css';
 import Portrait from '../../Assets/albertli.JPG';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import Resume from '../../Assets/Albert-Li-Resume.pdf';
-
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export default class About extends Component {
   render() {
@@ -66,17 +64,14 @@ export default class About extends Component {
         <hr width="70%" />
         <div data-aos="fade-left" data-aos-delay="200" className="centered">
           <p className="text">
-            When I'm not working or doing homework, I enjoy teaching, working out, learning new stuff, and cats.
-            <br />
-            <br />
             I'm particularly proud of my 🌎 <a href="https://lialbert.com/uiuc-diversity/" target="_blank" rel="noopener noreferrer"><strong>UIUC Diversity</strong> </a>
             project, interactively displaying 15 years of racial demographics of every major and college at the University of Illinois.
             <br />
             <br />
           </p>
-          <div className="social-icons">
+          {/* <div className="social-icons">
             <a href="mailto:albert.yiliang@gmail.com">
-              <FontAwesomeIcon icon="envelope" className="social-icon" />
+              <FontAwesomeIcon icon="envelope" className="social-icon" size="lg"/>
             </a>
             <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={['fab', 'github']} className="social-icon" size="lg" />
@@ -84,10 +79,10 @@ export default class About extends Component {
             <a href="https://www.linkedin.com/in/albs/" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={['fab', 'linkedin']} className="social-icon" size="lg" />
             </a>
-            <a href={Resume} target="_blank" rel="noopener noreferrer">
+            <a href="Albert-Li-Resume.pdf" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon="file-alt" className="social-icon" size="lg" />
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     );
