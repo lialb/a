@@ -75,7 +75,7 @@ export default class TopNavBar extends Component {
               <strong>more</strong>
             </Link>
           </Nav.Link>
-          <Nav.Link href="./Albert-Li-Resume" target="_blank" rel="noopener noreferrer">
+          <Nav.Link href="./Albert-Li-Resume.pdf" target="_blank" rel="noopener noreferrer">
             <strong>resume</strong>
           </Nav.Link>
         </Nav>
