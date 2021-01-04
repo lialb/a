@@ -1,3 +1,7 @@
-# a
+# Personal Website
 
-This is the react repository for my personal website [albearli.github.io](https://albearli.github.io/).
+Currently hosted @ [lialbert.com](https://albearli.github.io/)
+
+Production build deployed from `./build` directory
+
+To deploy: `sudo npm run deploy`
