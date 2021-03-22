@@ -14,43 +14,54 @@ export default class About extends Component {
       <div className="about-main">
         <div className="about-text">
           <h1 data-aos="fade-up" data-aos-delay="200" className="display-5">
-            Hey!
+          👋 Hey! 
           </h1>
-          <img data-aos="fade-up" data-aos-delay="200" src={Portrait} width="30%" alt="Albert Li" className="picture"></img>
-          <h2 data-aos="fade-left">
-            I am:
-          </h2>
-          <p data-aos="fade-left" data-aos-delay="200">
-            <strong>Albert</strong> Yiliang <strong>Li</strong>
-          </p>
-          <p data-aos="fade-left" data-aos-delay="200">
-            Studying <strong>Computer Science</strong> at The <strong style={orange}>University </strong>
-            of <strong style={blue}>Illinois</strong> at
-            <strong style={orange}> Urbana</strong>-<strong style={blue}>Champaign</strong>
-          </p>
-          <p data-aos="fade-left" data-aos-delay="200">
-            Trying my best &#x3c;3
-          </p>
+          <div className="side-by-side">
+            <img data-aos="fade-up" data-aos-delay="200" src={Portrait} width="30%" alt="Albert Li" className="picture"></img>
+            <div className="inner-text-container">
+              <div className="inner-text">
+                <h2 data-aos="fade-left">
+                  I am:
+                </h2>
+                <p data-aos="fade-left" data-aos-delay="200">
+                  <strong>Albert</strong> Yiliang <strong>Li</strong>
+                </p>
+                <p data-aos="fade-left" data-aos-delay="200">
+                  Studying <strong>Computer Science</strong> at The <strong style={orange}>University </strong>
+                  of <strong style={blue}>Illinois</strong> at
+                  <strong style={orange}> Urbana</strong>-<strong style={blue}>Champaign</strong>
+                </p>
+                <p data-aos="fade-left" data-aos-delay="200">
+                  Trying my best 💛
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
         <hr width="70%" />
         <div data-aos="fade-right" data-aos-delay="200" className="centered">
           <p className="text">
             I'm a junior at UIUC. I'll be a Software Engineer Intern at <strong className="tableau">Salesforce - Tableau</strong> and <strong className="fb">Facebook</strong> in 2021.
-            <br />
-            <br />
+            <br/>
+            <br/>
             In the past, I've worked at:
           </p>
           <ul className="bullets">
             <li>
               <strong className="msi">Motorola Solutions</strong> 📱 on the CirrusCentral Mobile Team,
               developing the backend for a mobile app monitoring radio systems data in real time
+              <ul>
+                <li>
+                  Spring 2021: Smart Insights Team 💡 + Engineering Lead for several interns
+                </li>
+              </ul>
             </li>
-            <br />
+            <br/>
             <li>
               <strong className="cat">Caterpillar</strong> 🚜 creating a visualization / analytics web platform that
               improved efficiency of data lookup for 700+ engineers (still growing!)
             </li>
-            <br />
+            <br/>
             <li>
               <strong className="ameren">Ameren</strong> ⚡ redesigning a project management
               web portal used by PMs, analysts, and executives
@@ -66,23 +77,9 @@ export default class About extends Component {
           <p className="text">
             I'm particularly proud of my 🌎 <a href="https://lialbert.com/uiuc-diversity/" target="_blank" rel="noopener noreferrer"><strong>UIUC Diversity</strong> </a>
             project, interactively displaying 15 years of racial demographics of every major and college at the University of Illinois.
-            <br />
-            <br />
+            <br/>
+            <br/>
           </p>
-          {/* <div className="social-icons">
-            <a href="mailto:albert.yiliang@gmail.com">
-              <FontAwesomeIcon icon="envelope" className="social-icon" size="lg"/>
-            </a>
-            <a href="https://github.com/albearli" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={['fab', 'github']} className="social-icon" size="lg" />
-            </a>
-            <a href="https://www.linkedin.com/in/albs/" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={['fab', 'linkedin']} className="social-icon" size="lg" />
-            </a>
-            <a href="Albert-Li-Resume.pdf" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon="file-alt" className="social-icon" size="lg" />
-            </a>
-          </div> */}
         </div>
       </div>
     );
