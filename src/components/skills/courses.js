@@ -9,7 +9,7 @@ export default class Courses extends React.Component {
     return(
       <div className="courses-main">
         <div data-aos-delay="200">
-          <h1 className="display-5">
+          <h1 className="display-5 header-font">
             Cool Courses I've Taken:
           </h1>
           <br/>

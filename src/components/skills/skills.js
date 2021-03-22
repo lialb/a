@@ -10,7 +10,7 @@ export default class Skills extends React.Component {
     AOS.init();
     return(
       <div className="skills-main">
-        <h1 data-aos="fade-up" data-aos-delay="200" className="display-5 skills-title">
+        <h1 data-aos="fade-up" data-aos-delay="200" className="display-5 skills-title header-font">
           Stuff I've worked with:
         </h1>
         <div data-aos="fade-up" data-aos-delay="200" className="tech">

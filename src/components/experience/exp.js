@@ -8,7 +8,7 @@ function Experience() {
   AOS.init();
   return(
     <div className="exp-main">
-      <h1 data-aos="fade-up" data-aos-delay="200" className="display-5 exp-title">
+      <h1 data-aos="fade-up" data-aos-delay="200" className="display-5 exp-title header-font">
         Experience
       </h1>
       <div data-aos="fade-up" data-aos-delay="200" className="jobs">
