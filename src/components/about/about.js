@@ -13,16 +13,17 @@ export default class About extends Component {
     return (
       <div className="about-main">
         <div className="about-text">
-          <h1 data-aos="fade-up" data-aos-delay="200" className="display-5">
+          {/* <h1 data-aos="fade-up" data-aos-delay="200" className="display-5">
           👋 Hey! 
-          </h1>
+          </h1> */}
           <div className="side-by-side">
             <img data-aos="fade-up" data-aos-delay="200" src={Portrait} width="30%" alt="Albert Li" className="picture"></img>
             <div className="inner-text-container">
               <div className="inner-text">
                 <h2 data-aos="fade-left">
-                  I am:
+                  Hey 👋 I am:
                 </h2>
+                <br/>
                 <p data-aos="fade-left" data-aos-delay="200">
                   <strong>Albert</strong> Yiliang <strong>Li</strong>
                 </p>

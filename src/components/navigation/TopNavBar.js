@@ -7,6 +7,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 export default class TopNavBar extends Component {
 
+  navy = "rgb(23, 42, 69)";
+
   scrollToTop = () => {
     scroll.scrollToTop();
   };
@@ -38,12 +40,15 @@ export default class TopNavBar extends Component {
       <Navbar className="navbar-main" fixed="top" variant="dark" expand="lg" style={{ background: this.state.background ? "none" : "" }}>
         <Navbar.Brand className="navbar-name">
           <Link onClick={this.scrollToTop}>
-            <FontAwesomeIcon icon="home" className="social-icon-white home-button" size="lg"/>
+            <FontAwesomeIcon icon="home" className="social-icon-white home-button" size="lg"
+              style={{ color: this.state.background ? "navy" : "" }}
+            />
           </Link>
         </Navbar.Brand>
         <Nav className="ml-auto">
           <Nav.Link>
             <Link
+              style={{ color: this.state.background ? "navy" : "" }}
               activeClass="active"
               to="about"
               spy={true}
@@ -55,6 +60,7 @@ export default class TopNavBar extends Component {
           </Nav.Link>
           <Nav.Link>
             <Link
+              style={{ color: this.state.background ? "navy" : "" }}
               activeClass="active"
               to="skills"
               spy={true}
@@ -66,6 +72,7 @@ export default class TopNavBar extends Component {
           </Nav.Link>
           <Nav.Link>
             <Link
+              style={{ color: this.state.background ? "navy" : "" }}
               activeClass="active"
               to="misc"
               spy={true}
@@ -75,7 +82,8 @@ export default class TopNavBar extends Component {
               <strong>more</strong>
             </Link>
           </Nav.Link>
-          <Nav.Link href="./Albert-Li-Resume.pdf" target="_blank" rel="noopener noreferrer">
+          <Nav.Link href="./Albert-Li-Resume.pdf" target="_blank" rel="noopener noreferrer"
+            style={{ color: this.state.background ? "navy" : "" }}>
             <strong>resume</strong>
           </Nav.Link>
         </Nav>

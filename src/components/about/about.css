@@ -20,6 +20,7 @@ img {
 .picture {
   border-radius: 50%;
   width: 25%;
+  max-width: 230px;
   object-fit: scale-down;
 }
 
