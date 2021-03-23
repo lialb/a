@@ -53,7 +53,7 @@ export default class About extends Component {
               developing the backend for a mobile app monitoring radio systems data in real time
               <ul>
                 <li>
-                  Spring 2021: Smart Insights Team 💡 + Engineering Lead for several interns
+                  Spring 2021: Smart Insights Team 💡 + Engineering Lead
                 </li>
               </ul>
             </li>

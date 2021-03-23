@@ -18,7 +18,7 @@ export default class TopNavBar extends Component {
   };
 
   scrollEvent = () => {
-    if (window.pageYOffset === 0) {
+    if (window.pageYOffset <= 500) {
       this.setState({
         background: true
       });
