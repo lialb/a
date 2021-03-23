@@ -6,12 +6,12 @@ import About from './components/about/about';
 import Skills from './components/skills/skills';
 import Misc from './components/misc/misc';
 import Footer from './components/footer/footer';
-import Particles from './components/particles/particles';
+// import Particles from './components/particles/particles';
 import { Element } from 'react-scroll';
 
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { fab } from '@fortawesome/free-brands-svg-icons'
-import { faEnvelope, faFileAlt, faHome } from '@fortawesome/free-solid-svg-icons'
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { fab } from '@fortawesome/free-brands-svg-icons';
+import { faEnvelope, faFileAlt, faHome } from '@fortawesome/free-solid-svg-icons';
 
 library.add(fab, faEnvelope, faFileAlt, faHome);
 
@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App">
       <TopNavbar className="navbar d-none d-sm-block"/>
-      <Particles/>
+      {/* <Particles/> */}
       <Element name="home">
         <Home className="App" title="home"/>
       </Element>
