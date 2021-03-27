@@ -4,7 +4,7 @@ import Cat from '../../Assets/cat.jpg';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-function Misc() {
+export default function Misc() {
   AOS.init();
   return(
     <div className="misc-main">
@@ -31,4 +31,3 @@ function Misc() {
     </div>
   );
 }
-export default Misc;
