@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/a/static/css/main.7aa8d1a8.chunk.css",
-    "main.js": "/a/static/js/main.90a649da.chunk.js",
-    "main.js.map": "/a/static/js/main.90a649da.chunk.js.map",
+    "main.css": "/a/static/css/main.8c57f588.chunk.css",
+    "main.js": "/a/static/js/main.54eabe37.chunk.js",
+    "main.js.map": "/a/static/js/main.54eabe37.chunk.js.map",
     "runtime-main.js": "/a/static/js/runtime-main.6d58fdf4.js",
     "runtime-main.js.map": "/a/static/js/runtime-main.6d58fdf4.js.map",
     "static/css/2.83767612.chunk.css": "/a/static/css/2.83767612.chunk.css",
-    "static/js/2.82ef0d89.chunk.js": "/a/static/js/2.82ef0d89.chunk.js",
-    "static/js/2.82ef0d89.chunk.js.map": "/a/static/js/2.82ef0d89.chunk.js.map",
+    "static/js/2.5fb7acab.chunk.js": "/a/static/js/2.5fb7acab.chunk.js",
+    "static/js/2.5fb7acab.chunk.js.map": "/a/static/js/2.5fb7acab.chunk.js.map",
     "index.html": "/a/index.html",
-    "precache-manifest.998cd0131fa6d6b416591ecaa437645c.js": "/a/precache-manifest.998cd0131fa6d6b416591ecaa437645c.js",
+    "precache-manifest.574a9cd54424d078da1c225907d4d0d5.js": "/a/precache-manifest.574a9cd54424d078da1c225907d4d0d5.js",
     "service-worker.js": "/a/service-worker.js",
     "static/css/2.83767612.chunk.css.map": "/a/static/css/2.83767612.chunk.css.map",
-    "static/css/main.7aa8d1a8.chunk.css.map": "/a/static/css/main.7aa8d1a8.chunk.css.map",
-    "static/js/2.82ef0d89.chunk.js.LICENSE.txt": "/a/static/js/2.82ef0d89.chunk.js.LICENSE.txt",
+    "static/css/main.8c57f588.chunk.css.map": "/a/static/css/main.8c57f588.chunk.css.map",
+    "static/js/2.5fb7acab.chunk.js.LICENSE.txt": "/a/static/js/2.5fb7acab.chunk.js.LICENSE.txt",
     "static/media/albertli.JPG": "/a/static/media/albertli.52ff0b81.JPG",
     "static/media/cat.jpg": "/a/static/media/cat.7e058026.jpg",
     "static/media/cpp.png": "/a/static/media/cpp.74932018.png",
@@ -27,13 +27,15 @@
     "static/media/mysql.png": "/a/static/media/mysql.07c28adf.png",
     "static/media/python.png": "/a/static/media/python.7e6fd771.png",
     "static/media/react.png": "/a/static/media/react.ae4b8b99.png",
-    "static/media/shell.png": "/a/static/media/shell.08da25e9.png"
+    "static/media/shell.png": "/a/static/media/shell.08da25e9.png",
+    "static/media/tangram.png": "/a/static/media/tangram.b7df3332.png",
+    "static/media/uiuc-diversity.png": "/a/static/media/uiuc-diversity.e5929950.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6d58fdf4.js",
     "static/css/2.83767612.chunk.css",
-    "static/js/2.82ef0d89.chunk.js",
-    "static/css/main.7aa8d1a8.chunk.css",
-    "static/js/main.90a649da.chunk.js"
+    "static/js/2.5fb7acab.chunk.js",
+    "static/css/main.8c57f588.chunk.css",
+    "static/js/main.54eabe37.chunk.js"
   ]
 }
