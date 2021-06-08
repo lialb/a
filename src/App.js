@@ -6,6 +6,7 @@ import About from './components/about/about';
 import Skills from './components/skills/skills';
 import Misc from './components/misc/misc';
 import Footer from './components/footer/footer';
+import Projects from './components/projects/projects';
 // import Particles from './components/particles/particles';
 import { Element } from 'react-scroll';
 
@@ -25,6 +26,9 @@ function App() {
       </Element>
       <Element name="about">
         <About title="about"/>
+      </Element>
+      <Element name="projects">
+        <Projects title="projects"/>
       </Element>
       <Element name="skills">
         <Skills title="skills"/>

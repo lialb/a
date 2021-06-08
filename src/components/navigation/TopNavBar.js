@@ -62,6 +62,18 @@ export default class TopNavBar extends Component {
             <Link
               style={{ color: this.state.background ? "navy" : "" }}
               activeClass="active"
+              to="projects"
+              spy={true}
+              smooth={true}
+              offset={10}
+              duration={500}>
+              <strong>projects</strong>
+            </Link>
+          </Nav.Link>
+          <Nav.Link>
+            <Link
+              style={{ color: this.state.background ? "navy" : "" }}
+              activeClass="active"
               to="skills"
               spy={true}
               smooth={true}

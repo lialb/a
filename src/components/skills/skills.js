@@ -28,8 +28,8 @@ export default function Skills() {
         <h1 data-aos-delay="200" className="tech-label d-none d-sm-block">
           Software: 
         </h1>
-        <Icon image="angular.png" name="Angular"/>
         <Icon image="react.png" name="React"/>
+        <Icon image="angular.png" name="Angular"/>
         <Icon image="flutter.png" name="Flutter"/>
         <Icon image="flask.png" name="Flask"/>
         <Icon image="nodejs.png" name="Node.js"/>
