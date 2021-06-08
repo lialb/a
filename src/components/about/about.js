@@ -73,14 +73,6 @@ export default function About() {
         </p>
       </div>
       <hr width="70%" />
-      <div data-aos="fade-left" data-aos-delay="200" className="centered">
-        <p className="text">
-          I'm particularly proud of my 🌎 <a href="https://lialbert.com/uiuc-diversity/" target="_blank" rel="noopener noreferrer"><strong>UIUC Diversity</strong> </a>
-          project, interactively displaying 15 years of racial demographics of every major and college at the University of Illinois.
-          <br/>
-          <br/>
-        </p>
-      </div>
     </div>
   );
 }

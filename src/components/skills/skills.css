@@ -1,11 +1,12 @@
 .skills-title {
   text-align: center;
-  padding-top: 5%;
+  padding-top: 2%;
 }
+
 .tech {
   display: flex;
   justify-content: center;
-  padding-top: 5%;
+  padding-top: 3%;
   width: 100%;
   flex-wrap: wrap;
 }

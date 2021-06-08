@@ -7,7 +7,7 @@ export default function Projects() {
   AOS.init();
   return (
     <div className="skills-main">
-      <h1 data-aos="fade-up" data-aos-delay="200" className="display-5 skills-title header-font">
+      <h1 data-aos="fade-up" data-aos-delay="200" className="display-5 projects-title header-font">
         Some Projects:
       </h1>
       <div className='tech'>
