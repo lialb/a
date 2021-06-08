@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './about.css';
 import Portrait from '../../Assets/albertli.JPG';
 import AOS from 'aos';
@@ -40,14 +40,15 @@ export default function About() {
       <hr width="70%" />
       <div data-aos="fade-right" data-aos-delay="200" className="centered">
         <p className="text">
-          I'm a junior at UIUC. I'll be a Software Engineer Intern at <strong className="tableau">Salesforce - Tableau</strong> and <strong className="fb">Facebook</strong> in 2021.
+          I'm a rising senior at UIUC. I'm currently a Software Engineer Intern at {link('Salesforce', 'https://www.salesforce.com/', 'sf')} / {link('Tableau', 'https://www.tableau.com/', 'tableau')}.
+          I'll be working at {link('Facebook', 'https://www.facebook.com', 'fb')} in fall 2021.
           <br/>
           <br/>
           In the past, I've worked at:
         </p>
         <ul className="bullets">
           <li>
-            <strong className="msi">Motorola Solutions</strong> 📱 on the CirrusCentral Mobile Team,
+            {link('Motorola Solutions', 'https://www.motorolasolutions.com/', 'msi', '📱')} on the CirrusCentral Mobile Team,
             developing the backend for a mobile app monitoring radio systems data in real time
             <ul>
               <li>
@@ -57,12 +58,12 @@ export default function About() {
           </li>
           <br/>
           <li>
-            <strong className="cat">Caterpillar</strong> 🚜 creating a visualization / analytics web platform that
-            improved efficiency of data lookup for 700+ engineers (still growing!)
+            {link('Caterpillar', 'https://www.caterpillar.com/', 'cat', '🚜')} creating a visualization / analytics web platform that
+            reduced data lookup time for 1000+ engineers, serving 20k+ queries daily
           </li>
           <br/>
           <li>
-            <strong className="ameren">Ameren</strong> ⚡ redesigning a project management
+            {link('Ameren', 'https://www.ameren.com/', 'ameren', '⚡')} redesigning a project management
             web portal used by PMs, analysts, and executives
           </li>
         </ul>
@@ -81,5 +82,13 @@ export default function About() {
         </p>
       </div>
     </div>
+  );
+}
+
+function link(name, link, cssName, emoji=null) {
+  return (
+    <a href={link} target="_blank" rel="noopener noreferrer">
+      <span className={cssName}>{name}</span> {emoji}
+    </a>
   );
 }
