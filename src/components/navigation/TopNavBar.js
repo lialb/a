@@ -77,7 +77,7 @@ export default class TopNavBar extends Component {
               to="skills"
               spy={true}
               smooth={true}
-              offset={10}
+              offset={-50}
               duration={500}>
               <strong>skills</strong>
             </Link>

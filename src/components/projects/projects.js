@@ -12,7 +12,7 @@ export default function Projects() {
       </h1>
       <div className='tech'>
         {project('uiuc-diversity.png', 'UIUC Diversity', 
-          'An interactive visualization displaying 15 years of racial demographics of every major and college at the University of Illinois',
+          '15 years of racial demographics of every major and college at the University of Illinois',
           'https://lialbert.com/uiuc-diversity/')}
         {project('tangram.png', 'Tangram', 
           'Tiktok, but 4 way swiping',
