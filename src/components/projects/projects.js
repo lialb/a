@@ -29,7 +29,7 @@ function project(image, name, desc, link) {
         <div className="card">
           <img src={require(`../../Assets/${image}`)} alt="icon" class="project-picture"/>
           <div className="card-container">
-            <h2><b>{name}</b></h2>
+            <h3><b>{name}</b></h3>
             <p>{desc}</p>
           </div>
         </div>
