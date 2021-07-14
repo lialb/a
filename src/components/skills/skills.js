@@ -38,7 +38,7 @@ export default function Skills() {
         <Icon image="kubernetes.png" name="Kubernetes"/>
       </div>
       <br/>
-      <Courses></Courses>
+      {/* <Courses></Courses> */}
     </div>
   );
 }

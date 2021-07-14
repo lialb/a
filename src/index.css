@@ -4,9 +4,10 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif; */
   /* font-family: 'Courier New', Courier, monospace; */
-  font-family: 'Lato', sans-serif;
+  /* font-family: 'Lato', sans-serif; */
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; 
+  font-family: 'Inter', sans-serif;
 }
 
 code {

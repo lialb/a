@@ -21,13 +21,6 @@ export default function Courses() {
         </p>
       </div>
       <br/>
-      {/* <div data-aos-delay="200">
-        <h3>In Progress</h3>
-        <br/>
-        <p>
-          Distributed Systems • Computer Security • User Interface Design • Bioinformatics
-        </p>
-      </div> */}
     </div>
   );
 }

@@ -6,7 +6,7 @@ import 'aos/dist/aos.css';
 export default function Projects() {
   AOS.init();
   return (
-    <div className="skills-main">
+    <div className="projects-main">
       <h1 data-aos="fade-up" data-aos-delay="200" className="display-5 projects-title header-font">
         Some Projects:
       </h1>

@@ -1,6 +1,5 @@
 .skills-title {
   text-align: center;
-  padding-top: 2%;
 }
 
 .tech {
@@ -21,6 +20,9 @@
   /* padding-left: 27%; */
   padding-right: 2%;
 }
+
 .skills-main {
-  padding-bottom: 3%;
+  padding-bottom: 5%;
+  background-color: #f2f2f2;
+  padding-top: 5%;
 }

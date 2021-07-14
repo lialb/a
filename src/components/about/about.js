@@ -72,7 +72,6 @@ export default function About() {
           , & grading) and <strong>CS 125: Intro to CS</strong> (Course Assistant)
         </p>
       </div>
-      <hr width="70%" />
     </div>
   );
 }
