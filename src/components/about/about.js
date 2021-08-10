@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import Portrait from '../../Assets/albertli.JPG';
+import Portrait from '../../Assets/albert_seattle.jpg';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -40,16 +40,22 @@ export default function About() {
       <hr width="70%" />
       <div data-aos="fade-right" data-aos-delay="200" className="centered">
         <p className="text">
-          I'm a rising senior at UIUC. I'm currently a Software Engineer Intern at {link('Salesforce', 'https://www.salesforce.com/', 'sf')} / {link('Tableau', 'https://www.tableau.com/', 'tableau')}.
-          I'll be working at {link('Facebook', 'https://www.facebook.com', 'fb')} in fall 2021.
+          I'm a rising senior at UIUC. I love creating impactful things. As a student, I'm interested in distributed systems, design, and security.
+          <br/>
+          I'll be working as a Software Engineer Intern @ {link('Facebook', 'https://www.facebook.com', 'fb')} in fall 2021.
           <br/>
           <br/>
           In the past, I've worked at:
         </p>
         <ul className="bullets">
           <li>
-            {link('Motorola Solutions', 'https://www.motorolasolutions.com/', 'msi', '📱')} on the CirrusCentral Mobile Team,
-            developing the backend for a mobile app monitoring radio systems data in real time
+            {link('Salesforce', 'https://www.salesforce.com/', 'sf')} / {link('Tableau', 'https://www.tableau.com/', 'tableau', '📊')} on
+            the Runtime & VizPipeline team, building out API infrastructure and core features
+          </li>
+          <br/>
+          <li>
+            {link('Motorola Solutions', 'https://www.motorolasolutions.com/', 'msi', '📱')} on the CirrusCentral Team,
+            developing the backend services for monitoring radio systems data in real time
             <ul>
               <li>
                 Spring 2021: Smart Insights Team 💡 + Engineering Lead

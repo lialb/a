@@ -3,7 +3,7 @@ import './skills.css';
 import Icon from './icon';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import Courses from './courses';
+// import Courses from './courses';
 
 export default function Skills() {
   AOS.init();
